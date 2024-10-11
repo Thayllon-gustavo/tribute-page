@@ -1,0 +1,87 @@
+
+body{
+    background-color:rgb(111, 4, 4);
+}
+
+
+
+
+.h5 {
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+    display: block;
+    background-color:rgb(17, 3, 146);
+   font-size: 28px;
+   font-style: italic; 
+   color:white;
+   text-shadow: 4px 4px 4px rgb(109, 103, 103);
+   border-bottom: 4px solid rgb(153, 0, 0);
+  
+}
+
+
+.carreira1 {
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+}
+
+
+
+.imagem01 {
+    padding-left: 500px;
+    padding-right: 500px;
+    display: flex;
+  justify-content: center;
+  border: 6px solid rgb(151, 144, 144);
+}
+.carreira {
+    text-align: center;
+    padding-left: 500px;
+    padding-right: 500px;
+    text-align: center;
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.texto1 {padding: 10px;
+    text-align: center;
+    font-size: 22px;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+
+}
+.cbc {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.esa {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+
+}
+.sargento {
+
+display: flex;
+
+font-size: 30px;
+font-weight: bolder;
+color: white;
+
+}
+.sgt {
+    display: flex;
+    justify-content: center;
+    
+
+}
+a { font-size: 30px;}
+
